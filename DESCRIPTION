@@ -1,8 +1,8 @@
 Package: ridgetorus
 Type: Package
 Title: PCA on the Torus via Density Ridges
-Version: 1.0.0
-Date: 2022-12-22
+Version: 1.0.1
+Date: 2023-01-09
 Authors@R: c(
     person(given = "Eduardo", family = "García-Portugués",
            role = c("aut", "cre"), email = "edgarcia@est-econ.uc3m.es",
@@ -31,10 +31,10 @@ RoxygenNote: 7.2.2
 VignetteBuilder: knitr
 Config/testthat/edition: 3
 NeedsCompilation: yes
-Packaged: 2022-12-22 21:34:08 UTC; Eduardo
+Packaged: 2023-01-09 15:42:00 UTC; Eduardo
 Author: Eduardo García-Portugués [aut, cre]
     (<https://orcid.org/0000-0002-9224-4111>),
   Arturo Prieto-Tirado [aut] (<https://orcid.org/0000-0003-0193-2988>)
 Maintainer: Eduardo García-Portugués <edgarcia@est-econ.uc3m.es>
 Repository: CRAN
-Date/Publication: 2022-12-23 19:10:08 UTC
+Date/Publication: 2023-01-10 09:10:09 UTC
